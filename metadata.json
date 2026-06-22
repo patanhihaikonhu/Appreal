@@ -1,0 +1,10 @@
+{
+  "name": "Merch Mockup Generator",
+  "description": "Upload your logo, place it onto interactive high-fidelity products, use AI to generate stunning designs or edit product shots, and export high-resolution print-ready mockups.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
